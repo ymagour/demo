@@ -1,5 +1,30 @@
 # チーム開発方法
 
+## CodeSpacesのデモ
+
+### 概要
+
+Codespacesは開発者がクラウド上でコードを書く、実行する、デバッグするためのオンライン開発環境です。
+Codespacesはブラウザから直接アクセスできる開発環境です。これにより、ローカルマシンの性能に依存せずに、どこからでもコードの編集や実行ができます。
+また、GitHubと密接に統合されているため、GitHubリポジトリから直接コードスペースを開始し、コードのクローン、ブランチの作成、コミット、プルリクエストの作成などが容易にできます。
+
+### 実行手順
+1. Codeをクリックします。<br>![image](./images/1.png)
+1. 赤枠の`・・・`をクリックします。<br>![image](./images/2.png)
+1. `New with option`をクリックします。<br>![image](./images/3.png)
+1. 赤枠をクリックします。<br>![image](./images/4.png)
+1. 赤枠の`4-core`をクリックします。<br>![image](./images/5.png)
+4. `Create codespace`をクリックします。<br>![image](./images/6.png)
+
+5. しばらく待ちます。<br>![image](https://user-images.githubusercontent.com/93235101/149875470-df4edec6-eba7-4431-8ee4-c474c198ea45.png)
+
+6. 画像のダイアログが表示されたら、赤枠のボタンを押してください。（出力されない場合もありますので、出た場合は対応してください）
+   <br>![image](./images/8_1.png)
+   <br>![image](./images/8_2.png)
+
+8. 画面下に赤枠が表示されている場合、環境構築中なのでしばらくお待ちください。<br>![image](./images/9.png)
+9. 上記で表示されていた赤枠部分が消えていることを確認してください。<br>![image](./images/10.png)
+
 ## Live shareを使ったデモ
 
 ### 概要
